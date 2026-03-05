@@ -1,1 +1,1 @@
-# techmagazine
+# Crazy - Provider
