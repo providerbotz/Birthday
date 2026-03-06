@@ -8,8 +8,8 @@ function handleLogin(event) {
     const errorMessage = document.getElementById('login-error-message');
 
     // Define correct credentials (case-insensitive)
-    const correctUsername = 'Birthday';
-    const correctPassword = 'BirtdayGift';
+    const correctUsername = 'ProviderBotz';
+    const correctPassword = 'birthdaygift@pbbirth.in';
 
     // Check credentials
     if (username === correctUsername && password === correctPassword) {
